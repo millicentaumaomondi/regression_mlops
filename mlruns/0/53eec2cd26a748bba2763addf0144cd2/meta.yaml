@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/millicentomondi/Documents/ammi_project_past_papers/practice_app/recognition/mlruns/0/53eec2cd26a748bba2763addf0144cd2/artifacts
+end_time: 1745102644485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53eec2cd26a748bba2763addf0144cd2
+run_name: unleashed-moose-752
+run_uuid: 53eec2cd26a748bba2763addf0144cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745102642761
+status: 3
+tags: []
+user_id: millicentomondi

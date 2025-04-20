@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/millicentomondi/Documents/ammi_project_past_papers/practice_app/recognition/mlruns/0/0ce7724792d446f7b67bbc353c8d77ec/artifacts
+end_time: 1745102644891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ce7724792d446f7b67bbc353c8d77ec
+run_name: luminous-worm-544
+run_uuid: 0ce7724792d446f7b67bbc353c8d77ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745102644886
+status: 3
+tags: []
+user_id: millicentomondi
