@@ -9,7 +9,7 @@ This repository contains the full pipeline for training, saving, and deploying a
 
 ```bash
 ├── data/                   # Raw data (CSV, etc.)
-├── model/                  # Trained model (packaged as .zip)
+├── model/                  # Trained model 
 ├── pipelines/             # ZenML training pipeline
 ├── src/                   # Configs, utilities, cleaning logic
 ├── streamlit_app.py       # UI app for predictions
